@@ -63,6 +63,24 @@ A follow-up will be required to ensure the new fan is received and installed cor
 
 
 The issue remains unresolved pending the arrival and installation of the new fan. Further action will be required to complete the repair.
+
+<div align="center">
+
+  <br>
+
+  <img src="https://github.com/user-attachments/assets/cb01c489-ddd2-431c-8054-59b64a3b881c" alt="Image 10" width="500" height="500">
+  <img src="https://github.com/user-attachments/assets/a930cc58-5326-4387-9515-b83132901e17" alt="Image 11" width="500" height="500">
+  <img src="https://github.com/user-attachments/assets/5b6bfbeb-3d34-4646-b10c-26461e6e7e80" alt="Image 12" width="500" height="500">
+
+  <br>
+
+  <img src="https://github.com/user-attachments/assets/b653dcea-6369-48c7-a8e1-3ff9e5626f80" alt="Image 13" width="500" height="500">
+  <img src="https://github.com/user-attachments/assets/6fb98c22-8b07-43b3-a9e2-529dc87b473a" alt="Image 14" width="500" height="500">
+   <img src="https://github.com/user-attachments/assets/456d0ee0-1294-4cc9-92f4-69c7f9bcb5c7" alt="Image 9" width="500" height="500">
+
+
+</div>
+
   
   - [Watch Video](https://oghenevwoke.github.io/DataRack/IMG_2129_1%20(1).mp4)  
 <a href="https://oghenevwoke.github.io/DataRack/IMG_2129_1%20(1).mp4">
